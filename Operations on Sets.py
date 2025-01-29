@@ -1,0 +1,12 @@
+set1={1,4,8,5}
+print(set1)
+set2={6,7.9,"hello"}
+print(set2)
+set3={1,4,8,9,55,4,8,8}
+print(set3)
+set4=set([1,5,8,9,3,4,7,6,2])
+print(set4)
+set5=set([5,9,7,3,1,4,6,2,8])
+print(set5)
+set5.pop()
+print(set5)
